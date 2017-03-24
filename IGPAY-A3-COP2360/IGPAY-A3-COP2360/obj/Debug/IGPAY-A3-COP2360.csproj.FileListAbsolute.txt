@@ -1,0 +1,9 @@
+C:\Users\Douglas\Desktop\School\COP-2360\A3\IGPAY-A3-COP2360\IGPAY-A3-COP2360\bin\Debug\IGPAY-A3-COP2360.exe.config
+C:\Users\Douglas\Desktop\School\COP-2360\A3\IGPAY-A3-COP2360\IGPAY-A3-COP2360\bin\Debug\IGPAY-A3-COP2360.exe
+C:\Users\Douglas\Desktop\School\COP-2360\A3\IGPAY-A3-COP2360\IGPAY-A3-COP2360\bin\Debug\IGPAY-A3-COP2360.pdb
+C:\Users\Douglas\Desktop\School\COP-2360\A3\IGPAY-A3-COP2360\IGPAY-A3-COP2360\obj\Debug\IGPAY-A3-COP2360.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\School\COP-2360\A3\IGPAY-A3-COP2360\IGPAY-A3-COP2360\obj\Debug\IGPAY_A3_COP2360.Form1.resources
+C:\Users\Douglas\Desktop\School\COP-2360\A3\IGPAY-A3-COP2360\IGPAY-A3-COP2360\obj\Debug\IGPAY_A3_COP2360.Properties.Resources.resources
+C:\Users\Douglas\Desktop\School\COP-2360\A3\IGPAY-A3-COP2360\IGPAY-A3-COP2360\obj\Debug\IGPAY-A3-COP2360.csproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\School\COP-2360\A3\IGPAY-A3-COP2360\IGPAY-A3-COP2360\obj\Debug\IGPAY-A3-COP2360.exe
+C:\Users\Douglas\Desktop\School\COP-2360\A3\IGPAY-A3-COP2360\IGPAY-A3-COP2360\obj\Debug\IGPAY-A3-COP2360.pdb
