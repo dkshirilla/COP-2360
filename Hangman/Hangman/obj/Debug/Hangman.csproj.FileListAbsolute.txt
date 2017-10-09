@@ -1,0 +1,9 @@
+C:\Users\Douglas\Desktop\School\COP-2360\Project\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Douglas\Desktop\School\COP-2360\Project\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Douglas\Desktop\School\COP-2360\Project\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Douglas\Desktop\School\COP-2360\Project\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\School\COP-2360\Project\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\Douglas\Desktop\School\COP-2360\Project\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Douglas\Desktop\School\COP-2360\Project\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\School\COP-2360\Project\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Douglas\Desktop\School\COP-2360\Project\Hangman\Hangman\obj\Debug\Hangman.pdb
